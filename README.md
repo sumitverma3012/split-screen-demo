@@ -4,6 +4,6 @@
 
 A Simple Split screen app
 
-[Demo](https://laughing-northcutt-689f65.netlify.app/)
+[Demo](https://naughty-nobel-533c7f.netlify.app/)
 
 
